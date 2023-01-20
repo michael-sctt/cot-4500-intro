@@ -1,0 +1,1 @@
+Numpy, version 1.24.1, install using command "pip install numpy"
