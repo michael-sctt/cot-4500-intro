@@ -15,4 +15,4 @@ Contains files to be edited and tested before pushing to the main directory, inc
 Listed in this file are the required libraries to run the code and how to install them.
 
 ## Running the code in Command Line
-Once command line is open, navigate to the directory containing the code. Once there, type "python *filename*.py" to compile and run the code. The code's output will be displayed below assuming a successful compilation.
+Once command line is open, navigate to the directory containing the code. Once there, type "python *filename*.py" to compile and run the code. In this case, go to main cot-4500-intro/src/main then type "python intro_to_python.py" as the next command. The code's output will be displayed below.
