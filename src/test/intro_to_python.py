@@ -4,6 +4,7 @@
 # Imports
 import numpy as np
 
+# Prints matrix, with extra space afterwards
 def print_matrix(matrix):
     for row in matrix:
         for val in row:
@@ -12,7 +13,6 @@ def print_matrix(matrix):
     print()
 
 if __name__ == "__main__":
-
     # Initialize matrix
     matrix = np.array([[0, 0, 0], [0, 0, 0], [0, 0, 0]])
 
